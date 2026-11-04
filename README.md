@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Viet Vu - VXO Digital Lab
 
-<!--
-**vuvietnb85-web/vuvietnb85-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build free web apps, PWAs and AI music prompt tools on Grok, focused on Vietnamese music, games and everyday utilities.
 
-Here are some ideas to get you started:
+## Featured apps
+- [Golden Court - Suno prompt studio directory](https://web-pwa-prompt-auto-sunoai-vxo.grok.me)
+- [Auto Prompt - Suno music prompt creator](https://prompt-music-sunojblcreater.grok.me)
+- [Atelier 998 - Fashion music prompts](https://fashion-prompt-musical.grok.me)
+- [Song Ha Tay - 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
